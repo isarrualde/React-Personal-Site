@@ -4,7 +4,7 @@ class Work extends Component {
   render() {
     return (
       //<!-- Work Experience -->
-    <div className="work section second" id="experiences">
+    <div className="work section second" >
       <div className="container">
         <h1>Work<br />Experiences</h1>
         <ul className="work-list">
@@ -22,6 +22,7 @@ class Work extends Component {
           <li><a href="http://www.paginar.com/">Paginar.net</a></li>
           <li>FrontEnd Dev</li>
         </ul>
+        <div id="achievements"> </div>
       </div>
     </div>
 

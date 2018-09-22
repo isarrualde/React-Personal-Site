@@ -72,7 +72,10 @@ a:hover {
   100% {
     opacity: 1; } }
 .main-nav {
-  background-color: #e3e3e3; }
+  background-color: #e3e3e3;
+  z-index: 999999;
+  position: fixed;
+  width: 100%; }
   .main-nav nav {
     margin-bottom: 0; }
     .main-nav nav ul li a {
@@ -81,7 +84,8 @@ a:hover {
       color: #4d4d4d; }
 
 .section.second {
-  margin-bottom: 90px; }
+  margin-bottom: 40px;
+  margin-top: 90px; }
 .section .container {
   position: relative; }
   .section .container:after {
@@ -94,7 +98,7 @@ a:hover {
     position: relative; }
 
 .intro {
-  padding: 95px 0px 70px 0px;
+  padding: 95px 0px 20px 0px;
   overflow-x: hidden; }
   .intro img {
     width: 81px;

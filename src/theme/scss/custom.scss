@@ -11,8 +11,11 @@
 
 // Navigation
 .main-nav {
-	
+
 	background-color: #e3e3e3;
+	z-index: 999999;
+    position: fixed;
+    width: 100%;
 	nav {
 		margin-bottom:0;
 		ul li {
@@ -28,7 +31,8 @@
 
 .section {
 	&.second{
-		margin-bottom: 90px;
+		margin-bottom: 40px;
+		margin-top: 90px;
 	}
 	.container {
 		position: relative;
@@ -46,7 +50,7 @@
 }
 
 .intro {
-	padding: 95px 0px 70px 0px;
+	padding: 95px 0px 20px 0px;
 	overflow-x: hidden;
 
 	img {
