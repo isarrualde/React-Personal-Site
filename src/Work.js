@@ -9,7 +9,7 @@ class Work extends Component {
         <h1>Work<br />Experiences</h1>
         <ul className="work-list">
           <li>2017-Present</li>
-          <li><a href="#">WeTech SA</a></li>
+          <li><a href="">WeTech SA</a></li>
           <li>FrontEnd Dev</li>
         </ul>
         <ul className="work-list">

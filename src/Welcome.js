@@ -17,16 +17,16 @@ class Welcome extends Component {
             <p>
               I am immensely passionate about creating innovative digital experiences, motivated to combine the art of design with the art of programming. My responsibilities include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application.
             </p>
-            <p>
+            
             <ul className="skill-list list-flat"> 
-              <li><i class="fas fa-bolt"></i> Develop new user-facing features</li>
-              <li><i class="fas fa-bolt"></i> Build reusable code and libraries for future use</li>
-              <li><i class="fas fa-bolt"></i> Ensure the technical feasibility of UI/UX designs</li>
-              <li><i class="fas fa-bolt"></i> Optimize application for maximum speed and scalability</li>
-              <li><i class="fas fa-bolt"></i> Assure that all user input is validated before submitting to back-end</li>
-              <li><i class="fas fa-bolt"></i> Collaborate with other team members and stakeholders</li>
+              <li><i className="fas fa-bolt"></i> Develop new user-facing features</li>
+              <li><i className="fas fa-bolt"></i> Build reusable code and libraries for future use</li>
+              <li><i className="fas fa-bolt"></i> Ensure the technical feasibility of UI/UX designs</li>
+              <li><i className="fas fa-bolt"></i> Optimize application for maximum speed and scalability</li>
+              <li><i className="fas fa-bolt"></i> Assure that all user input is validated before submitting to back-end</li>
+              <li><i className="fas fa-bolt"></i> Collaborate with other team members and stakeholders</li>
             </ul>
-            </p>
+            
           </div>
         </div>
       </div>

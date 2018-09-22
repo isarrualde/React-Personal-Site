@@ -11,9 +11,10 @@
 
 // Navigation
 .main-nav {
+	
 	background-color: #e3e3e3;
-	padding-top: 23px;
 	nav {
+		margin-bottom:0;
 		ul li {
 			a {
 				color: lighten($secondary, 35%);

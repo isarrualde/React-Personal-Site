@@ -72,12 +72,13 @@ a:hover {
   100% {
     opacity: 1; } }
 .main-nav {
-  background-color: #e3e3e3;
-  padding-top: 23px; }
-  .main-nav nav ul li a {
-    color: #a7a7a7; }
-  .main-nav nav ul li.active a {
-    color: #4d4d4d; }
+  background-color: #e3e3e3; }
+  .main-nav nav {
+    margin-bottom: 0; }
+    .main-nav nav ul li a {
+      color: #a7a7a7; }
+    .main-nav nav ul li.active a {
+      color: #4d4d4d; }
 
 .section.second {
   margin-bottom: 90px; }
@@ -156,3 +157,5 @@ footer {
     footer .social li a {
       font-size: 1.25em;
       color: #999999; }
+
+/*# sourceMappingURL=custom.css.map */

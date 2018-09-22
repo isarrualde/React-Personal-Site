@@ -20,11 +20,11 @@ class Awards extends Component {
             <li>Matias advance knowledge of Frontend combined with his fast learning curve and great design skills makes him the perfect choice for anyone looking for an amazing, outstanding, functional resource. Matt is a Frontend rockstar and a great team player!</li>
           </ul>
           <ul className="award-list list-flat">
-            <li>SharePoint Designer - Americas Delivery Award 2013 <i class="fa fa-trophy"></i></li>
+            <li>SharePoint Designer - Americas Delivery Award 2013 <i className="fa fa-trophy"></i></li>
             <li>The combined Avanade and ADC team has won the Americas Delivery Award for the Brookfield DMS Phase-II project.</li>
           </ul>
           <ul className="award-list list-flat">
-            <li>4 EASY STEPS TO SHAREPOINT BRANDING - 2012 <i class="far fa-newspaper"></i> </li>
+            <li>4 EASY STEPS TO SHAREPOINT BRANDING - 2012 <i className="far fa-newspaper"></i> </li>
             <li>See publication</li>
           </ul>
         </div>
