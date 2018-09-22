@@ -1,0 +1,25 @@
+.input-group.content-icons{
+  .input-group-addon{
+    background-color:#f4f5f8;
+  }
+  input{
+    margin-left: -3px;
+    border-left:none;
+    border-top-left-radius: 0!important;
+    border-bottom-left-radius: 0!important;
+    &:active{border-color:#c2cad8!important;}
+    &:focus{border-color:#c2cad8!important;}
+  }
+  
+}
+
+.tip-block{
+  .icon-info{
+    font-size: 18px;
+    float: left;
+    margin:15px; 
+  }
+  .text-alert{
+    margin: 5px 10px;  
+  } 
+}
