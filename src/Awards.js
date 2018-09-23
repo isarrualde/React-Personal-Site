@@ -4,7 +4,7 @@ class Awards extends Component {
   render() {
     return (
       // <!-- Award & Achievements -->
-      <div className="award section second">
+      <div className="award section second" id="achievements">
         <div className="container">
           <h1>Award &amp;<br />References</h1>
           <ul className="award-list list-flat">

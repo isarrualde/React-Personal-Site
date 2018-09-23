@@ -11,7 +11,7 @@ class MainNav extends Component {
             </div>
               <nav id="navbar-1" className="navbar item-nav">
                 <ul>
-                    <li className="active"><a href="#about">About</a></li>
+                    <li className=""><a href="#about">About</a></li>
                     <li><a href="#experiences">Experiences</a></li>
                     <li><a href="#achievements">Achievements</a></li>
                     <li><a href="#skills">Skills</a></li>

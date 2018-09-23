@@ -17,7 +17,7 @@ class Skills extends Component {
           </ul>
           <ul className="skill-list list-flat">
             <li>Framework</li>
-            <li>Bootstrap / Sharepoint Designer / invisionapp / Agile Methodologies / Git </li>
+            <li>Bootstrap / Sharepoint Designer / InVision App / Agile Methodologies / Git </li>
           </ul>
         </div>
       </div>

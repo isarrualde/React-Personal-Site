@@ -29,9 +29,7 @@ class Welcome extends Component {
             
           </div>
         </div>
-        <div id="experiences"> </div>
       </div>
-
 
     );
   }
