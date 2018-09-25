@@ -13,7 +13,7 @@ class MainNav extends Component {
                 <ul>
                     <li className=""><a href="#about">About</a></li>
                     <li><a href="#experiences">Experiences</a></li>
-                    <li><a href="#achievements">Achievements</a></li>
+                    <li><a href="#achievements">References</a></li>
                     <li><a href="#skills">Skills</a></li>
                 </ul>
             </nav>

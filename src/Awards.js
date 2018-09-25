@@ -1,10 +1,15 @@
 import React, { Component } from 'react';
- 
+const ArchorSpace = {
+  paddingTop: "40px",
+  marginTop: "-40px",
+}
+
+
 class Awards extends Component {
   render() {
     return (
       // <!-- Award & Achievements -->
-      <div className="award section second" id="achievements">
+      <div className="award section second" id="achievements" style={ArchorSpace}>
         <div className="container">
           <h1>Award &amp;<br />References</h1>
           <ul className="award-list list-flat">

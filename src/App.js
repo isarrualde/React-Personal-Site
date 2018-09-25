@@ -9,7 +9,7 @@ import Work from './Work';
 import Awards from './Awards';
 import Skills from './Skills';
 import Footer from './Footer';
- 
+
 class App extends Component {
   render() {
     return (
